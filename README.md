@@ -2,11 +2,11 @@
 ### <p align="center">🧠 &nbsp;Moi</p>
 <br>
 <p align="center">
-  J'ai 14 ans, j'apprends le développement et la cybersécurité 🙂
+  J'ai 14 ans, j'apprends le développement🙂
   <br>
   <br>
   <br>
-  <img src="https://zupimages.net/up/21/22/oe6x.gif">
+  <img src="https://cdn.discordapp.com/attachments/825532990037295135/857662939040710716/f4f68aba6d7791d43932ed679328693d.jpg">
   <br>
   <br>
   <br>
@@ -19,7 +19,7 @@
   <br>
   <a href="https://discord.gg/plague/">💬 Mon serveur Discord | discord.gg/plague 💬</a>
   <br>
-  <a href="https://discord.com/api/oauth2/authorize?client_id=838754317790871565&permissions=34816&scope=bot">☢ Mon Bot Discord ☢</a>
+  <a href="https://discord.com/api/oauth2/authorize?client_id=856599269195907122&permissions=8&scope=bot">☢ Mon Bot Discord ☢</a>
   <br>
 </p>
 
