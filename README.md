@@ -6,7 +6,7 @@
   <br>
   <br>
   <br>
-  <img src="https://cdn.discordapp.com/attachments/825532990037295135/857662939040710716/f4f68aba6d7791d43932ed679328693d.jpg">
+  <img src="https://camo.githubusercontent.com/17a1ebec14bc2b0263d46efcdecacf1d535ffeb770834e7911b1e147e9b46e4c/68747470733a2f2f7a7570696d616765732e6e65742f75702f32312f32322f6f6536782e676966">
   <br>
   <br>
   <br>
@@ -51,7 +51,7 @@
 -----
 ### <p align="center">📞 &nbsp;Contact</p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/825532990037295135/857662939040710716/f4f68aba6d7791d43932ed679328693d.jpg">
+  <img src="">
   <br>
   cristalsouskush@gmail.com
 </p>
