@@ -17,7 +17,7 @@
   <br>
   <a href="https://www.youtube.com/channel/UCYX4jCDRBjObSHmY8yLyQWw">📺 Ma chaîne YouTube 📺</a>
   <br>
-  <a href="https://discord.gg/plague/">💬 Mon serveur Discord | discord.gg/plague 💬</a>
+  <a href="https://discord.gg/ckgUBfqsEe">💬 Mon serveur Discord | discord.gg/plague 💬</a>
   <br>
   <a href="https://discord.com/api/oauth2/authorize?client_id=856599269195907122&permissions=8&scope=bot">☢ Mon Bot Discord ☢</a>
   <br>
