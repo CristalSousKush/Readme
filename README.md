@@ -10,12 +10,12 @@
   <br>
   <br>
   <br>
-  <a href="https://billythegoat356.github.io">🌍 Mon site Web en cours de Développement 🌍</a>
+  <a href="https://github.com/CristalSousKush">🌍 Mon site Web en cours de Développement 🌍</a>
   <br>
-  <a href="https://billy.loca.lt/">🎨 Mon Api 🎨</a>
+  <a href="">🎨 Mon Api 🎨</a>
   <br>
   <br>
-  <a href="https://youtube.com/c/billythegoat356/">📺 Ma chaîne YouTube 📺</a>
+  <a href="https://www.youtube.com/channel/UCYX4jCDRBjObSHmY8yLyQWw">📺 Ma chaîne YouTube 📺</a>
   <br>
   <a href="https://discord.gg/plague/">💬 Mon serveur Discord | discord.gg/plague 💬</a>
   <br>
@@ -27,12 +27,9 @@
 ### <p align="center">🏆 &nbsp;Mes Compétences</p>
 <br>
 <p align="center">
-  🐍 J'apprends le Python depuis 4 mois 🐍
+  🐍 Je Veux Appredre le Phython 🐍
   <br>
   💠 J'apprends le Développement Web, pour créer mon propre site internet 💠
-  <br>
-  🔐 J'apprends la Cybersécurité pour pouvoir me protéger sur Internet 🔐
-  <br>
   <br>
 </p>
 
@@ -40,11 +37,9 @@
 ### <p align="center">📈 &nbsp;Mes Objectifs</p>
 <br>
 <p align="center">
-  🐍 Maitrîser le Python 🐍
+  🐍 Apprendre le Python 🐍
   <br>
-  💠 Maitrîser le Développement Web (html/css) 💠
-  <br>
-  🔐 Progresser en Cybersécurité 🔐
+  💠 Appredre le Développement Web (html/css) 💠
   <br>
   🎃 Apprendre le JavaScript 🎃
   <br>
@@ -56,9 +51,9 @@
 -----
 ### <p align="center">📞 &nbsp;Contact</p>
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/791395106615721985.png">
+  <img src="https://cdn.discordapp.com/attachments/825532990037295135/857662939040710716/f4f68aba6d7791d43932ed679328693d.jpg">
   <br>
-  billythegoat356356@gmail.com
+  cristalsouskush@gmail.com
 </p>
 
 
